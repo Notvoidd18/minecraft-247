@@ -4,7 +4,7 @@ const settings = {
     host: 'Land_of_block.aternos.me',
     port: 49567,
     username: 'Server',
-    version: false
+    version: 1.21.3
 };
 
 let bot;
@@ -97,3 +97,4 @@ function reconnect() {
 
 // 🚀 Start bot
 createBot();
+
